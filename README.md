@@ -1,5 +1,5 @@
 # An Improvement to the Apriori Algorithm
-2024春中山大学大数据原理与技术期末项目
+2024春中山大学大数据原理与技术期末项目  
 FINAL PROJECT FOR BIG DATA PRINCIPLES AND TECHNOLOGIES, SYSU, SPRING 2024
 
 ## Author
